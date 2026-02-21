@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "BinBuddy",
+    "slug": "binbuddy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "binbuddy",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#2D7A4F"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.binbuddy.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2D7A4F"
+      },
+      "package": "com.binbuddy.app"
+    },
+    "web": {},
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
